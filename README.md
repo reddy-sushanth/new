@@ -18,8 +18,11 @@ Apart from interesting real world applications of bike sharing systems, the char
 ## **Methodology**
 
 **Step 1** - Exploratory Data Analysis (EDA)
+
 **Step 2** - Data Preprocessing
+
 **Step 3** - Fitting Models
+
 **Step 4** - Performance Summary & Model Selection
 
 ## **Descriptive analysis and Data visualization**<br>
