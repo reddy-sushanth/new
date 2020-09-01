@@ -135,6 +135,8 @@ Random forests or random decision forests are an ensemble learning method for cl
 ## Performance Summary & Model Selection
 
 Model which gives lowest Root Mean Square Error (RMSE) value is preferred. From the above graph, Random Forest is giving better results on both train and test data. We will be using this random forest model (model_rf) for prediction of count of total rental bikes.**Root Mean Square Error (RMSE) on test data: 66.31229301835563**
+![final_model](https://user-images.githubusercontent.com/62914212/91885384-abfbc280-ec55-11ea-9984-b1d9b0f845b2.PNG)
+
 
 ## Aplication and Usage
 
