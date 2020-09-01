@@ -32,22 +32,39 @@ It will help the emplyoee, residentsn students and tourists .
 ## Tools used
 
 import pandas as pd
+
 import matplotlib.pyplot as plt
+
 import seaborn as sns
+
 import numpy as np
+
 from scipy import stats
+
 from collections import Counter
+
 from sklearn.model_selection import train_test_split
+
 from sklearn.feature_selection import RFE
+
 from sklearn.linear_model import LinearRegression
+
 from sklearn.model_selection import cross_val_score
+
 from sklearn.model_selection import KFold
+
 from sklearn.model_selection import GridSearchCV
+
 from sklearn.neighbors import KNeighborsRegressor
+
 from sklearn.tree import DecisionTreeRegressor
+
 from sklearn.ensemble import RandomForestRegressor
+
 import warnings
+
 warnings.filterwarnings('ignore')
+
 
 ## Features (columns) of the dataset:
 
