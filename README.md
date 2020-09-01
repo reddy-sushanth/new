@@ -1,5 +1,4 @@
-# new
-**Bike sharing system**
+# **Bike sharing system**
 
 Data source : https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset 
 
